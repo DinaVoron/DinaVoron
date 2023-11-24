@@ -1,5 +1,7 @@
-### Hi there 👋
-<img src="pic.gif">
+<div>
+  <img src="pic.gif">
+</div>
+
 
 <!--
 **DinaVoron/DinaVoron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
